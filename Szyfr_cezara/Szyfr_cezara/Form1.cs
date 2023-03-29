@@ -289,7 +289,7 @@ namespace Szyfr_cezara
                             rodzaj = 'm';
                         if ((tab[i] >= 48 && tab[i] <= 57) || (tab[i] >= 65 && tab[i] <= 90) || (tab[i] >= 97 && tab[i] <= 122))
                         {
-                            tab[i] -= move;
+                            tab[i] += move;
                             if ((tab[i] >= 48 && tab[i] <= 57) || (tab[i] >= 65 && tab[i] <= 90) || (tab[i] >= 97 && tab[i] <= 122))
                             {
                                 odpowiedz += Convert.ToChar(tab[i]);
@@ -323,7 +323,7 @@ namespace Szyfr_cezara
                             rodzaj = 'm';
                         if ((tab[i] >= 48 && tab[i] <= 57) || (tab[i] >= 97 && tab[i] <= 122))
                         {
-                            tab[i] -= move;
+                            tab[i] += move;
                             if ((tab[i] >= 48 && tab[i] <= 57) || (tab[i] >= 65 && tab[i] <= 90) || (tab[i] >= 97 && tab[i] <= 122))
                             {
                                 odpowiedz += Convert.ToChar(tab[i]);
@@ -356,7 +356,7 @@ namespace Szyfr_cezara
                             rodzaj = 'm';
                         if ((tab[i] >= 97 && tab[i] <= 122))
                         {
-                            tab[i] -= move;
+                            tab[i] += move;
                             if ((tab[i] >= 48 && tab[i] <= 57) || (tab[i] >= 65 && tab[i] <= 90) || (tab[i] >= 97 && tab[i] <= 122))
                             {
                                 odpowiedz += Convert.ToChar(tab[i]);
@@ -389,7 +389,7 @@ namespace Szyfr_cezara
                             rodzaj = 'm';
                         if ((tab[i] >= 65 && tab[i] <= 90) || (tab[i] >= 97 && tab[i] <= 122))
                         {
-                            tab[i] -= move;
+                            tab[i] += move;
                             if ((tab[i] >= 48 && tab[i] <= 57) || (tab[i] >= 65 && tab[i] <= 90) || (tab[i] >= 97 && tab[i] <= 122))
                             {
                                 odpowiedz += Convert.ToChar(tab[i]);
@@ -422,7 +422,7 @@ namespace Szyfr_cezara
                             rodzaj = 'm';
                         if ((tab[i] >= 48 && tab[i] <= 57) || (tab[i] >= 65 && tab[i] <= 90))
                         {
-                            tab[i] -= move;
+                            tab[i] += move;
                             if ((tab[i] >= 48 && tab[i] <= 57) || (tab[i] >= 65 && tab[i] <= 90) || (tab[i] >= 97 && tab[i] <= 122))
                             {
                                 odpowiedz += Convert.ToChar(tab[i]);
@@ -455,7 +455,7 @@ namespace Szyfr_cezara
                             rodzaj = 'm';
                         if ((tab[i] >= 48 && tab[i] <= 57))
                         {
-                            tab[i] -= move;
+                            tab[i] += move;
                             if ((tab[i] >= 48 && tab[i] <= 57) || (tab[i] >= 65 && tab[i] <= 90) || (tab[i] >= 97 && tab[i] <= 122))
                             {
                                 odpowiedz += Convert.ToChar(tab[i]);
@@ -488,7 +488,7 @@ namespace Szyfr_cezara
                             rodzaj = 'm';
                         if ((tab[i] >= 48 && tab[i] <= 57))
                         {
-                            tab[i] -= move;
+                            tab[i] += move;
                             if ((tab[i] >= 48 && tab[i] <= 57) || (tab[i] >= 65 && tab[i] <= 90) || (tab[i] >= 97 && tab[i] <= 122))
                             {
                                 odpowiedz += Convert.ToChar(tab[i]);
