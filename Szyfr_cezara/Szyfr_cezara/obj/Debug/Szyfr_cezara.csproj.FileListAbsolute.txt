@@ -1,0 +1,10 @@
+C:\Users\TEMP.VLO-30-05.002\Desktop\Szyfr_cezara\Szyfr_cezara\bin\Debug\Szyfr_cezara.exe.config
+C:\Users\TEMP.VLO-30-05.002\Desktop\Szyfr_cezara\Szyfr_cezara\bin\Debug\Szyfr_cezara.exe
+C:\Users\TEMP.VLO-30-05.002\Desktop\Szyfr_cezara\Szyfr_cezara\bin\Debug\Szyfr_cezara.pdb
+C:\Users\TEMP.VLO-30-05.002\Desktop\Szyfr_cezara\Szyfr_cezara\obj\Debug\Szyfr_cezara.csproj.AssemblyReference.cache
+C:\Users\TEMP.VLO-30-05.002\Desktop\Szyfr_cezara\Szyfr_cezara\obj\Debug\Szyfr_cezara.Form1.resources
+C:\Users\TEMP.VLO-30-05.002\Desktop\Szyfr_cezara\Szyfr_cezara\obj\Debug\Szyfr_cezara.Properties.Resources.resources
+C:\Users\TEMP.VLO-30-05.002\Desktop\Szyfr_cezara\Szyfr_cezara\obj\Debug\Szyfr_cezara.csproj.GenerateResource.cache
+C:\Users\TEMP.VLO-30-05.002\Desktop\Szyfr_cezara\Szyfr_cezara\obj\Debug\Szyfr_cezara.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.VLO-30-05.002\Desktop\Szyfr_cezara\Szyfr_cezara\obj\Debug\Szyfr_cezara.exe
+C:\Users\TEMP.VLO-30-05.002\Desktop\Szyfr_cezara\Szyfr_cezara\obj\Debug\Szyfr_cezara.pdb

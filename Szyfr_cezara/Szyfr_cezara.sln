@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szyfr_cezara", "Szyfr_cezara\Szyfr_cezara.csproj", "{33FB8BFC-B5D4-49DD-89A1-EE47F1AF87B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33FB8BFC-B5D4-49DD-89A1-EE47F1AF87B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33FB8BFC-B5D4-49DD-89A1-EE47F1AF87B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33FB8BFC-B5D4-49DD-89A1-EE47F1AF87B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33FB8BFC-B5D4-49DD-89A1-EE47F1AF87B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E860E7E9-2925-4923-928F-5E6036A2C669}
+	EndGlobalSection
+EndGlobal
